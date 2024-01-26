@@ -1,0 +1,32 @@
+/* AddFields.css */
+.add-fields-container {
+  max-width: 600px; /* Increased max-width */
+  margin: auto;
+  padding: 30px; /* Increased padding */
+  border: 10px solid #000000;
+  border-radius: 12px; /* Increased border-radius */
+  box-shadow: 0 0 15px rgba(110, 10, 10, 0.2); /* Adjusted box-shadow */
+  background-color: #2374ca; /* Blue background color */
+  font-family: "Jura", sans-serif; 
+}
+
+.select-dropdown,
+.field-type-dropdown,
+.field-type-options {
+  margin-bottom: 30px; /* Increased margin-bottom */
+}
+
+.add-field-button,
+.confirm-button,
+.reset-button {
+  background-color: #4caf50;
+  color: rgb(210, 62, 62);
+  padding: 25px 20px; /* Increased padding */
+  border: none;
+  border-radius: 10px; /* Increased border-radius */
+  cursor: pointer;
+  margin-right: 15px; /* Add space between buttons */
+  font-family: "Jura", sans-serif; 
+}
+
+/* Add more styling as needed */
